@@ -1,7 +1,5 @@
 package com.inixindo_surabaya.javaprog.C2_immutability;
 
-import com.inixindo_surabaya.javaprog.C2_immutability.Tanggal;
-
 public class TanggalApp {
     public static void main(String[] args) {
         Tanggal tanggal1 = new Tanggal(15, 8, 2025);

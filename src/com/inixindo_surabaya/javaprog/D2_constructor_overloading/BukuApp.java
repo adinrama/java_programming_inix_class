@@ -1,7 +1,5 @@
 package com.inixindo_surabaya.javaprog.D2_constructor_overloading;
 
-import com.inixindo_surabaya.javaprog.D2_constructor_overloading.Buku;
-
 public class BukuApp {
     public static void main(String[] args) {
         Buku buku1 = new Buku();

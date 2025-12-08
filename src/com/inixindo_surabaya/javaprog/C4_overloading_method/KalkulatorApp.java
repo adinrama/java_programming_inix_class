@@ -1,7 +1,5 @@
 package com.inixindo_surabaya.javaprog.C4_overloading_method;
 
-import com.inixindo_surabaya.javaprog.C4_overloading_method.Kalkulator;
-
 public class KalkulatorApp {
     public static void main(String[] args) {
         Kalkulator kalkulator = new Kalkulator();

@@ -1,7 +1,5 @@
 package com.inixindo_surabaya.javaprog.C5_varargs_method;
 
-import com.inixindo_surabaya.javaprog.C5_varargs_method.StatistikHelper;
-
 public class StatistikApp {
     public static void main(String[] args) {
         StatistikHelper statistik = new StatistikHelper();

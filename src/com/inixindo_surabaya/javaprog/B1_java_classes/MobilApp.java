@@ -1,7 +1,5 @@
 package com.inixindo_surabaya.javaprog.B1_java_classes;
 
-import com.inixindo_surabaya.javaprog.B1_java_classes.Mobil;
-
 public class MobilApp {
     public static void main(String[] args) {
         Mobil mobil1 = new Mobil("Toyota", "Hitam", 2010);
