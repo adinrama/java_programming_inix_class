@@ -27,8 +27,8 @@ Buatlah sistem manajemen rumah sakit yang menangani berbagai tipe pasien dan lay
     - Atribut: `tingkatKegawatan` (1-5), `tindakan`, `ambulance` (boolean)
     - Biaya: base Rp 500.000 + (tingkatKegawatan × Rp 200.000) + ambulance Rp 300.000
 
-#### 2. **Class Hospital dengan Method Overloading**
-Buat class `Hospital` dengan method overloading `daftarPasien()`:
+#### 2. **Class RumahSakit dengan Method Overloading**
+Buat class `RumahSakit` dengan method overloading `daftarPasien()`:
 - `daftarPasien(Pasien pasien)` - daftar 1 pasien
 - `daftarPasien(String nama, int umur, String jenisKelamin, String tipePasien)` - daftar pasien baru langsung
 - `daftarPasien(Pasien[] daftarPasien)` - daftar multiple pasien dari array
